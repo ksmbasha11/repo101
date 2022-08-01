@@ -36,7 +36,7 @@
              name="ECM"></VocabularyTerm>
             <VocabularyTerm
              description=""
-             name="tool"></VocabularyTerm>
+             name="ECM Simulatio&tool"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
